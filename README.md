@@ -1,1 +1,4 @@
 # doc-reader
+
+JSON API :
+
